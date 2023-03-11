@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Understand what it means to host a website
-- Use GitHub to host a website from a Git repository
+- Understand what it means to host a website.
+- Use GitHub to host a website from a Git repository.
 
 ## Introduction
 
